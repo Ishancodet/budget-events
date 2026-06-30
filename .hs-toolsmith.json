@@ -1,0 +1,13 @@
+{
+  "hsToolsmith": true,
+  "title": "budget-events",
+  "pitch": "Turn raw expense logs into categorized summaries, budgets, and anomaly flags.",
+  "language": "python",
+  "category": "Developer Tools",
+  "keyFeatures": [
+    "CSV/JSON transaction normalization into a canonical schema",
+    "Rule-based categorization with pluggable classifiers",
+    "Monthly rollups, budget checks, and simple anomaly detection"
+  ],
+  "targetUsers": "Developers building personal finance apps who need a reliable transaction categorization and reporting core."
+}
